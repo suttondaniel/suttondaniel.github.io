@@ -6,7 +6,7 @@ author_profile: true
 header: 
     image: "/images/tarantula_nebula.jpg"
 ---
-
+<!-- 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="tags" %}
 
@@ -16,4 +16,4 @@ header:
   {% for post in posts %}
     {% include archive-single.html %}
   {% endfor %}
-{% endfor %}
+{% endfor %} -->
