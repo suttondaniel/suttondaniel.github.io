@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Daniel Sutton"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Daniel Sutton"
+name                     : "Daniel S"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Daniel Sutton"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "DS Legend"
+  bio              : ""
   location         : "Somewhere"
   email            :
   links:
@@ -113,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://suttondaniel.github.com/"
+      url: "https://github.com/suttondaniel"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/suttondaniel
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
