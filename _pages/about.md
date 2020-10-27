@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-header:
+#header:
     #image: "/images/tarantula_nebula.jpg"
 ---
 

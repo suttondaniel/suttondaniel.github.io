@@ -2,6 +2,7 @@
 title: "Current projects"
 date: 2020-09-21
 tags: [data science, statistics]
+permalink: /stats/
 ---
 
 ## Measures of Variability on an interval or ratio scale
